@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Copper-Mug
+- 👀 I’m interested in software and electronics R&D
+- 🌱 I’m currently learning more about DevOps
